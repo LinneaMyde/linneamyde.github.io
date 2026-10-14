@@ -42,17 +42,17 @@
       "heading": "#f3e7d6"
     },
     "type": {
-      "headingFont": "Jost",
-      "bodyFont": "Lora",
-      "headingWeight": 400,
+      "headingFont": "Libre Franklin",
+      "bodyFont": "Anton",
+      "headingWeight": 800,
       "bodyWeight": 400,
       "baseSize": 17,
       "headingTransform": "none",
       "letterSpacing": 0
     },
     "shape": {
-      "radius": 8,
-      "borderWidth": 1,
+      "radius": 28,
+      "borderWidth": 4,
       "shadows": "none"
     },
     "density": "normal",
