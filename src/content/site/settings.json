@@ -105,18 +105,18 @@
       "mode": "initials"
     },
     "pages": {
-      "about": true,
+      "about": false,
       "contact": true,
-      "cv": true,
-      "press": true,
+      "cv": false,
+      "press": false,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
       "commissions": true,
-      "shop": true,
+      "shop": false,
       "projects": false,
-      "stockists": true
+      "stockists": false
     }
   }
 }
