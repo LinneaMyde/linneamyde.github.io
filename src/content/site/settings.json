@@ -1,7 +1,7 @@
 {
-  "siteTitle": "Your portfolio",
+  "siteTitle": "Linnéa Myde ",
   "tagline": "",
-  "logoText": "Your name",
+  "logoText": "Linnéa Myde ",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "ember",
+    "color": {
+      "background": "#000000",
+      "surface": "#241a12",
+      "text": "#f3e7d6",
+      "muted": "#ac9576",
+      "accent": "#b7f020",
+      "accent2": "#adf565",
+      "border": "#000000",
+      "link": "#e0922f",
+      "heading": "#f3e7d6"
+    },
+    "type": {
+      "headingFont": "Jost",
+      "bodyFont": "Lora",
+      "headingWeight": 400,
+      "bodyWeight": 400,
+      "baseSize": 17,
+      "headingTransform": "none",
+      "letterSpacing": 0
+    },
+    "shape": {
+      "radius": 8,
+      "borderWidth": 1,
+      "shadows": "none"
+    },
+    "density": "normal",
+    "contentWidth": "normal",
+    "readingWidth": "comfortable",
+    "motion": "smooth",
+    "nav": {
+      "layout": "top"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "texture"
+    },
+    "thumb": {
+      "fit": "cover",
+      "hover": "lift"
+    },
+    "gallery": {
+      "layout": "grid",
+      "size": "small",
+      "gutter": "normal",
+      "caption": "hidden",
+      "cardStyle": "card",
+      "captionDetail": "full",
+      "captionOverlay": "surface",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": true
+    },
+    "hero": {
+      "enabled": false,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": false,
+      "presskit": false,
+      "commissions": true,
+      "shop": true,
+      "projects": false,
+      "stockists": true
+    }
+  }
 }
