@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: Contact
+email: linneamyde.art@outlook.com
 formEnabled: true
 ---
 
